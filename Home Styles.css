@@ -17,7 +17,12 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #9ca7aa;
+}
+.navi_links li a:visited
+{
+    color: rgb(85, 150, 194);
+    background-color: aquamarine;
 }
 
 li a {
@@ -35,6 +40,7 @@ li a {
   
 .navi_links li a:hover {
     background-color: #111;
+    text-decoration: dashed;
   }
 .Qoute{
     clear:left;
@@ -78,6 +84,12 @@ footer{
     background-color: #333;
     ;
 }
+
+
+
+
+
+
 
 
 
