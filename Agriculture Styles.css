@@ -125,3 +125,27 @@ footer{
     background-color: #ffffff;
     ;
 }
+.Email{
+    background: url('logo.jpg') no-repeat -712px -120px;
+	width: 58px;
+	height: 56px; 
+}
+
+.Email:hover{
+    background: url('logo.jpg') no-repeat -712px -184px;
+	width: 58px;
+	height: 56px;
+}
+
+.Whatsapp{
+    background: url('logo.jpg') no-repeat -792px -120px;
+	width: 58px;
+	height: 56px;
+}
+
+.Whatsapp:hover{
+    background: url('logo.jpg') no-repeat -792px -184px;
+	width: 58px;
+	height: 56px;
+}
+
