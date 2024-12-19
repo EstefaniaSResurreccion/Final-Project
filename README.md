@@ -1,4 +1,4 @@
 # Resurreccion_Final-Project
 - https://estefaniasresurreccion.github.io/Final-Project/
 - This is a file for my Lab Activity project in CS3
-- The Second Page other than the home page is Called "Agriculture"
+- I descarded my first quarter website and restarted a new one(2nd quarter) althought its contents and details are still the same adn within the same topic.
